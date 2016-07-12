@@ -1,0 +1,2 @@
+# Gyakorlas
+Első gyakorló programok.
